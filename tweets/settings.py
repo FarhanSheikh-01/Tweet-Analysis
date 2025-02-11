@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-dba$s=1=n9_q-4@x4)jm_2g*!a+ipexw!+u@^y4@dvo+!&ov97
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tweet-analysis-df25.onrender.com']
 
 
 # Application definition
